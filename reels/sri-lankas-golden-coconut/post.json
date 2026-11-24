@@ -1,0 +1,27 @@
+{
+  "slug": "sri-lankas-golden-coconut",
+  "title": "The orange coconut the whole world wants",
+  "duration_s": 89.0,
+  "format": "1080x1920 H.264 30fps, -14 LUFS",
+  "video_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sri-lankas-golden-coconut/sri-lankas-golden-coconut.mp4",
+  "cover_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sri-lankas-golden-coconut/sri-lankas-golden-coconut-cover.jpg",
+  "srt_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sri-lankas-golden-coconut/sri-lankas-golden-coconut.en-GB.srt",
+  "cover_ms": 5200,
+  "post_text": "This golden coconut is Sri Lanka's own 🥥 Why it matters, what's inside, and how it survives a 4-week trip abroad.\n#kingcoconut #srilanka #thambili #learnontiktok #explained #coconutwater",
+  "facebook": {
+    "type": "REEL",
+    "title": "The orange coconut the whole world wants"
+  },
+  "tiktok": {
+    "title": "The orange coconut the whole world wants",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "isAigc": true,
+    "autoAddMusic": false
+  },
+  "schedule": {
+    "status": "pending",
+    "dateTime": null,
+    "timezone": "Asia/Colombo",
+    "plannerUrl": null
+  }
+}

@@ -1,0 +1,14 @@
+CREDITS — "Sri Lanka's golden coconut" (sri-lankas-golden-coconut.mp4)
+
+Picture: drawn entirely in code (canvas brush engine adapted from the Lemo-Opuscar "Watercolor Brush" style). No photos or footage.
+Voice: Kokoro TTS (kokoro-onnx, model Kokoro-82M v1.0, Apache-2.0), voice bf_emma.
+Music: original score written for this film, played from samples:
+  Samples (CC0): VS Chamber Orchestra: Community Edition (Versilian Studios) — cellos, flute;
+  Versilian Community Sample Library (Versilian Studios) — marimba, harp, glockenspiel, frame drum, shaker.
+Sound effects and ambience (brush, sea, breeze, birds, ticks): synthesised in code.
+Fonts (SIL Open Font License 1.1, files in fonts/ with their OFL texts):
+  Cormorant Garamond — Christian Thalmann
+  Caveat — Impallari Type
+  IBM Plex Mono — IBM Corp.
+Map data: Natural Earth 1:10m land polygons (public domain), naturalearthdata.com. Coastlines only, no borders.
+Facts and sources: see FACTS.md.
