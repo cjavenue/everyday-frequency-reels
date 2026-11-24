@@ -1,7 +1,7 @@
 # Sinharaja — Sri Lanka's last rainforest · delivery pack
 
-**Film:** sinharaja-last-rainforest.mp4 · 1080×1920 · 30 fps · H.264/AAC · 90.0 s · −14.0 LUFS (true peak −1.0 dBFS)
-**Captions:** burned in (one line, below the content area), and in subtitles_en-GB.srt · **Cover:** cover.jpg (the end card, 1:28, no caption)
+**Film:** sinharaja-last-rainforest.mp4 · Impasto Oil Painting version · 1080×1920 · 30 fps · H.264/AAC · 84.6 s · −14.0 LUFS (true peak −1.0 dBFS)
+**Captions:** burned in (one line, below the content area), and in subtitles_en-GB.srt · **Cover:** cover.jpg (the end card, 1:24, no caption)
 
 ## Title (41 characters)
 The last rainforest Sri Lanka almost lost
@@ -26,20 +26,20 @@ Sinharaja Forest Reserve · Sinharaja rainforest · Sri Lanka rainforest · last
 Sources 🌿 Last viable primary rainforest; >60% of trees endemic; WH site 1988 (UNESCO WHC 405) · 15 of 20 endemic mammals; 5 critically endangered shrub frogs; outlook "significant concern"; tea, roads, gem mining, hotels, invasives, climate; corridors (IUCN World Heritage Outlook, Oct 2025) · ~1,400 ha logged, banned 1977; 21 km long; Kalu & Gin rivers (UNEP-WCMC datasheet) · Bird waves ~41 birds, ~11 species (Kotagama & Goodale, Forktail 2004).
 
 ## Assumptions made
-- **Style:** Watercolor Brush, as chosen. **Palette:** from your "Plant Trees" image – sky blues, teal far trees, olive and lime greens, burnt orange `#bd591e` as the single accent (numbers, stamps and threats), plum-brown ink. The paper stays as the white, as the style requires.
-- **Safe area:** the painting sits in a torn-edge "page" inside x 150–930 / y 276–1544, so every picture and note is inside the content area; captions sit one line in the band below (y ≈ 1618).
-- **Length: 90 s**, at the top of the 60–90 s target, to fit uniqueness, the 1970s close call, today's threats and the fixes.
-- **Angle:** why it's unique → it nearly vanished → today's threats → why save it and how.
-- **Wording kept cautious:** "endemic" means endemic to Sri Lanka (the screen says so); the ~1,400 ha logged is an estimate and shown with "~"; endemic-bird counts were dropped because sources disagree (19 to 33); the hotel claim is limited to IUCN's rating of tourism development as a threat.
-- **Map:** Sri Lanka's coastline only (an island, so no borders); the reserve outline is approximate.
-- **Voice:** bm_george (British male) at 1.06× speed – a calm, documentary read with some gravity for the threats section. "Gin Ganga" is respelt for the voice with a hard G.
-- **Music:** original score made in code: kalimba, harp, guitar, pizzicato bass, pad and flute in D major, turning to B minor for the threats, with about two seconds of silence before the logging.
-- **Mastering:** the library's master script needs ffmpeg 7 (6.1 here), so the two-pass −14 LUFS master was run by hand with the same targets.
+- **Style:** Impasto Oil Painting (palette knife), replacing the earlier watercolour version. Same story, facts, title and captions. **Palette:** still from your "Plant Trees" image – sky blues, teal distance, olive and lime greens, burnt orange `#bd591e` as the single accent (numbers, stamps, threats), plum-brown ink.
+- **Safe area:** the painting is a framed canvas inside x 150–930 / y 276–1544 on a dark board, so every picture and note sits in the content area; captions sit one line below it, cream on dark.
+- **Paint behaviour:** each scene is laid in by the knife (paint-over transitions with a scrape on the soundtrack); static paint never moves, only things the story moves (birds, drips, the camera). Small text stays crisp over the paint so it reads on a phone.
+- **Length: 84.6 s**, inside the 60–90 s target (the new voice reads a little faster).
+- **Voice:** bm_fable (British male, Kokoro) at 0.92× speed. I tested all four British voices (bf_emma, bf_isabella, bm_george, bm_fable) with the same offline speech recogniser: fable and george were clearest (73% of everyday words recognised vs 67% for emma and 59% for isabella). I chose fable over george for its warmer, storytelling tone.
+- **Pronunciation:** local names and acronyms are set as exact phonemes rather than respellings, and checked with a phoneme-level recogniser. Sinharaja = sin-huh-RAH-juh; Sri Lanka = shree LANG-kuh; UNESCO = yoo-NESS-koh (the default said "un-ESS-co"); IUCN = I-U-C-N; Kalu = KAH-loo; Gin = hard G, "ghin" (the default said "jin", like the drink).
+- **Music:** the same original score made in code (kalimba, harp, guitar, pizzicato bass, pad, flute), re-timed to the new voice, with about two seconds of silence before the logging; palette-knife scrapes and dabs replace the brush sounds.
+- **Wording kept cautious (unchanged):** "endemic" means endemic to Sri Lanka; ~1,400 ha is an estimate; endemic-bird counts left out; hotels only as IUCN's rated tourism pressure.
+- **Mastering:** two-pass −14 LUFS master run by hand (ffmpeg 6.1 here).
 
-## Worth a listen (automatic speech check unavailable)
-The speech-check model couldn't be downloaded here, so the narration wasn't checked by machine. Listen especially to:
-- 0:00 "This is **Sinharaja**" (respelt "Sinhuh-raajuh")
-- 0:14 "since **nineteen eighty-eight**"
-- 0:23 "the **purple-faced langur**"
-- 0:52 "the **I.U.C.N.**"
-- 1:09 "the **Kalu** and the **Gin**" (respelt "Kaloo" / "Ghin")
+## Worth a listen (no full automatic speech check available)
+The online speech checkers are blocked here, so the check was done with an older offline recogniser plus a phoneme-by-phoneme review. Listen especially to:
+- 0:00 "This is **Sinharaja**"
+- 0:13 "**a UNESCO** World Heritage Site"
+- 0:26 "the **purple-faced langur**"
+- 0:50 "the **I-U-C-N**"
+- 1:07 "the **Kalu** and the **Gin**"

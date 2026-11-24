@@ -1,12 +1,12 @@
 {
   "slug": "sinharaja-last-rainforest",
   "title": "The last rainforest Sri Lanka almost lost",
-  "duration_s": 90.0,
+  "duration_s": 84.6,
   "format": "1080x1920 H.264 30fps, -14 LUFS",
   "video_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sinharaja-last-rainforest/sinharaja-last-rainforest.mp4",
   "cover_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sinharaja-last-rainforest/sinharaja-last-rainforest-cover.jpg",
   "srt_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/sinharaja-last-rainforest/sinharaja-last-rainforest.en-GB.srt",
-  "cover_ms": 88600,
+  "cover_ms": 84000,
   "post_text": "Sinharaja is Sri Lanka's last primary rainforest 🌿 Why it's unique, what threatens it today, and how it can still be saved.\n#sinharaja #srilanka #rainforest #biodiversity #learnontiktok #explained",
   "facebook": {
     "type": "REEL",
@@ -19,7 +19,7 @@
     "autoAddMusic": false
   },
   "schedule": {
-    "status": "scheduled",
+    "status": "pending",
     "dateTime": "2026-11-26T10:00:00",
     "timezone": "Asia/Colombo",
     "networks": [
@@ -28,5 +28,7 @@
     ],
     "metricoolPostId": 439876240,
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=6994223176563511014"
-  }
+  },
+  "style": "Impasto Oil Painting",
+  "voice": "bm_fable"
 }

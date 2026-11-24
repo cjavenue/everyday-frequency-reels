@@ -1,12 +1,11 @@
 Sinharaja — Sri Lanka's last rainforest · credits and licences
 
-Picture: drawn entirely in code (canvas brush-stroke engine adapted from the Lemo-Opuscar library's Watercolor Brush style). No photos or footage.
+Picture: painted entirely in code with a WebGL palette-knife stroke renderer (adapted from the Lemo-Opuscar library's Impasto style). No photos or footage.
 Map: Sri Lanka coastline from Natural Earth 1:50m admin-0 countries (public domain), naturalearthdata.com. Coastline only, no borders drawn.
-Voice: Kokoro TTS v1.0 (kokoro-onnx), voice bm_george (British male), Apache-2.0.
-Music and sound effects: original, synthesised in code (physical-model kalimba, harp, nylon guitar and pizzicato bass; synthesised pad and flute; procedural foley and ambience). No samples or third-party recordings.
+Voice: Kokoro TTS v1.0 (kokoro-onnx), voice bm_fable (British male), Apache-2.0. Pronunciation set with espeak-ng phonemes (GPL-3.0, used as a tool only).
+Music and sound effects: original, synthesised in code (physical-model kalimba, harp, nylon guitar and pizzicato bass; synthesised pad and flute; procedural palette-knife foley and ambience). No samples or third-party recordings.
 Fonts (SIL Open Font License 1.1, from github.com/google/fonts):
   - Cormorant Garamond (Christian Thalmann)
-  - Caveat (Impallari Type)
   - IBM Plex Mono (IBM)
 Palette: taken from CJ's "Plant Trees" reference image (colours only).
 Facts: see FACTS.md (UNESCO WHC, IUCN World Heritage Outlook 2025, UNEP-WCMC, Kotagama & Goodale 2004, The Morning).
