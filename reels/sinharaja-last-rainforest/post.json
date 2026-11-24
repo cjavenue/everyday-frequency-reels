@@ -20,13 +20,13 @@
   },
   "schedule": {
     "status": "scheduled",
-    "dateTime": "2026-11-24T18:00:00",
+    "dateTime": "2026-11-26T10:00:00",
     "timezone": "Asia/Colombo",
     "networks": [
       "facebook",
       "tiktok"
     ],
-    "metricoolPostId": 439857492,
+    "metricoolPostId": 439876240,
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=6994223176563511014"
   }
 }
