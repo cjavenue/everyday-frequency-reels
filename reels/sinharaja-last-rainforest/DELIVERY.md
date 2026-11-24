@@ -1,6 +1,6 @@
 # Sinharaja — Sri Lanka's last rainforest · delivery pack
 
-**Film:** sinharaja-last-rainforest.mp4 · Impasto Oil Painting version · 1080×1920 · 30 fps · H.264/AAC · 84.6 s · −14.0 LUFS (true peak −1.0 dBFS)
+**Film:** sinharaja-last-rainforest.mp4 · Impasto Oil Painting version · 1080×1920 · 30 fps · H.264/AAC · 84.6 s · −14.0 LUFS (true peak −1.4 dBFS)
 **Captions:** burned in (one line, below the content area), and in subtitles_en-GB.srt · **Cover:** cover.jpg (the end card, 1:24, no caption)
 
 ## Title (41 characters)
