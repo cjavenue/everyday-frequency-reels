@@ -19,14 +19,14 @@
     "autoAddMusic": false
   },
   "schedule": {
-    "status": "pending",
+    "status": "scheduled",
     "dateTime": "2026-11-26T10:00:00",
     "timezone": "Asia/Colombo",
     "networks": [
       "facebook",
       "tiktok"
     ],
-    "metricoolPostId": 440778869,
+    "metricoolPostId": 441177918,
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=6994223176563511014"
   },
   "style": "Impasto Oil Painting",
