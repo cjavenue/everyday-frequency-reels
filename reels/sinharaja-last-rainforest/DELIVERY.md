@@ -1,7 +1,7 @@
 # Sinharaja — Sri Lanka's last rainforest · delivery pack
 
-**Film:** sinharaja-last-rainforest.mp4 · Impasto Oil Painting version, full-bleed · 1080×1920 · 30 fps · H.264 (CRF 17)/AAC · 84.6 s · −14.0 LUFS (true peak −1.4 dBFS)
-**Captions:** burned in (one line, just below the focus area, cream with a dark halo), and in subtitles_en-GB.srt · **Cover:** cover.jpg (the end card, 1:24, no caption)
+**Film:** sinharaja-last-rainforest.mp4 · Impasto Oil Painting, full-bleed, dissolves · 1080×1920 · 30 fps · H.264 two-pass 7.7 Mb/s / AAC 192k · 94.9 s · 92.9 MB · −14.2 LUFS (true peak −1.5 dBFS)
+**Captions:** burned in (one line, just below the focus area, cream with a dark halo), and in subtitles_en-GB.srt · **Cover:** cover.jpg (the end card, 1:33, no caption)
 
 ## Title (41 characters)
 The last rainforest Sri Lanka almost lost
@@ -28,20 +28,21 @@ Sources 🌿 Last viable primary rainforest; >60% of trees endemic; WH site 1988
 ## Assumptions made
 - **Style:** Impasto Oil Painting (palette knife), replacing the earlier watercolour version. Same story, facts, title and captions. **Palette:** still from your "Plant Trees" image – sky blues, teal distance, olive and lime greens, burnt orange `#bd591e` as the single accent (numbers, stamps, threats), plum-brown ink.
 - **Frame and focus area:** the painting fills the whole 1080×1920 frame, edge to edge, with no frame or margins. Titles, numbers, labels and the main subjects sit in or start in the focus area (x 162–918, y 288–1536); the bird wave flies across the full width. Every camera move stays inside its painted set, so no bare edges show. The film opens on a cream-primed canvas that the knife paints over.
-- **File size:** encoded at H.264 CRF 17 (visually lossless) instead of 16 so the full-bleed film fits GitHub's 100 MB per-file limit (85 MB); CRF 16 came to 101 MB.
-- **Audio release check:** −14.2 LUFS integrated, true peak −1.4 dBFS on the final MP4 (mastered with −1.6 dBTP headroom so the AAC encode stays under −1.0).
-- **Paint behaviour:** each scene is laid in by the knife (paint-over transitions with a scrape on the soundtrack); static paint never moves, only things the story moves (birds, drips, the camera). Small text stays crisp over the paint so it reads on a phone.
-- **Length: 84.6 s**, inside the 60–90 s target (the new voice reads a little faster).
-- **Voice:** bm_fable (British male, Kokoro) at 0.92× speed. I tested all four British voices (bf_emma, bf_isabella, bm_george, bm_fable) with the same offline speech recogniser: fable and george were clearest (73% of everyday words recognised vs 67% for emma and 59% for isabella). I chose fable over george for its warmer, storytelling tone.
+- **File size:** 103.8 MB at full quality (CRF 16), over the 100 MB limit, so re-encoded two-pass to 92.9 MB (7.7 Mb/s video), keeping 1080×1920, 30 fps and the same audio. Loudness, peak and contact sheet re-checked on the smaller file.
+- **Audio release check:** −14.2 LUFS integrated, true peak −1.5 dBFS on the final MP4 (mastered at −1.6 dBTP so the AAC encode stays under −1.0); no clipping; voice about 9 dB above the music.
+- **Transitions:** every scene change is a smooth cross-dissolve (0.8 s; 1.0–1.2 s around the logging), with a soft swell on the soundtrack instead of the knife scrape. The opening still paints up from a cream canvas, and titles are still knifed in. Static paint never moves; only things the story moves (birds, drips, the camera).
+- **Length: 94.9 s**, over the 60–90 s target but under the 100 s maximum: the narration was slowed to a calm 136–152 words per minute per line, which this topic needs to stay clear.
+- **Voice:** bm_fable (British male, Kokoro), with a speed set for each line. I tested all four British voices (bf_emma, bf_isabella, bm_george, bm_fable) with the same offline speech recogniser: fable and george were clearest (73% vs 67% for emma and 59% for isabella). I chose fable for its warmer, storytelling tone.
+- **Audio review:** pace 136–152 wpm per line (about 144 overall; the old track ran 129–215, 168 overall). Everyday words recognised: 75%. Names confirmed at phoneme level: Sinharaja, UNESCO (yoo-NESS-koh), IUCN, Kalu, Gin (hard G). Every line lands inside its scene; no voice crosses a dissolve.
 - **Pronunciation:** local names and acronyms are set as exact phonemes rather than respellings, and checked with a phoneme-level recogniser. Sinharaja = sin-huh-RAH-juh; Sri Lanka = shree LANG-kuh; UNESCO = yoo-NESS-koh (the default said "un-ESS-co"); IUCN = I-U-C-N; Kalu = KAH-loo; Gin = hard G, "ghin" (the default said "jin", like the drink).
-- **Music:** the same original score made in code (kalimba, harp, guitar, pizzicato bass, pad, flute), re-timed to the new voice, with about two seconds of silence before the logging; palette-knife scrapes and dabs replace the brush sounds.
+- **Music:** the same original score made in code (kalimba, harp, guitar, pizzicato bass, pad, flute), re-timed to the new voice, with about two seconds of near-silence before the logging; soft swells on the dissolves and knife dabs for the marks.
 - **Wording kept cautious (unchanged):** "endemic" means endemic to Sri Lanka; ~1,400 ha is an estimate; endemic-bird counts left out; hotels only as IUCN's rated tourism pressure.
 - **Mastering:** two-pass −14 LUFS master run by hand (ffmpeg 6.1 here).
 
 ## Worth a listen (no full automatic speech check available)
 The online speech checkers are blocked here, so the check was done with an older offline recogniser plus a phoneme-by-phoneme review. Listen especially to:
 - 0:00 "This is **Sinharaja**"
-- 0:13 "**a UNESCO** World Heritage Site"
-- 0:26 "the **purple-faced langur**"
-- 0:50 "the **I-U-C-N**"
-- 1:07 "the **Kalu** and the **Gin**"
+- 0:14 "**a UNESCO** World Heritage Site"
+- 0:29 "the **purple-faced langur**"
+- 0:55 "the **I-U-C-N**"
+- 1:13 "the **Kalu** and the **Gin**"
