@@ -19,7 +19,7 @@
     "autoAddMusic": false
   },
   "schedule": {
-    "status": "scheduled",
+    "status": "pending",
     "dateTime": "2026-11-26T10:00:00",
     "timezone": "Asia/Colombo",
     "networks": [
@@ -30,5 +30,6 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=6994223176563511014"
   },
   "style": "Impasto Oil Painting",
-  "voice": "bm_fable"
+  "voice": "bm_fable",
+  "layout": "full-bleed"
 }
