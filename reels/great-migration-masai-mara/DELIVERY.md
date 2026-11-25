@@ -1,7 +1,7 @@
 # The Great Migration · Masai Mara · delivery pack
 
-**Film:** great-migration-masai-mara.mp4 · 1080×1920 · 30 fps · H.264/AAC · 89 s · −14 LUFS
-**Captions:** burned in (one line, below the content area) and in great-migration-masai-mara.en-GB.srt · **Cover:** great-migration-masai-mara-cover.jpg (the mass crossing, 0:51)
+**Film:** great-migration-masai-mara.mp4 · 1080×1920 · 30 fps · H.264/AAC · 89.2 s · −14.0 LUFS · true peak −1.3 dBTP (measured on the final MP4)
+**Captions:** burned in (one line, below the content area) and in great-migration-masai-mara.en-GB.srt · **Cover:** great-migration-masai-mara-cover.jpg ("Why jump?" leap, 0:03, no caption)
 
 ## Title (50 characters)
 Why do wildebeest leap into a river of crocodiles?
@@ -26,18 +26,38 @@ Great Migration · Masai Mara migration · Maasai Mara wildebeest · Mara River 
 Sources 🐃 ~6,250 drown a year, bones feed the river ~7 yrs (Subalusky et al., PNAS 2017) · AI satellite count <600,000 vs 1.3M aerial estimate (Univ. of Oxford / PNAS Nexus, Sep 2025) · up to ~8,000 calves a day (NASA Earth Observatory) · ~800 km clockwise loop (National Geographic) · grass protein drives the move (Holdo et al. 2009) · Mara River threats (KNA / LVBC, Jul 2026).
 
 ## Assumptions made
-- **Style:** Impasto Oil Painting, as chosen. **Palette** from your two photos: dust gold and ochre, umber banks, slate river, charcoal wildebeest with a gold back-light rim; one accent, sunset orange, for the route line. Green only arrives with the rain.
-- **Your photos** set colour and mood only. Every animal, river and map is painted in code, as the project requires.
-- **Picture animation throughout:** 12 painted scenes, each laid in with a knife sweep, with moving herds, leaps, splashes, rain, growing grass, a calf standing up, a crocodile lunge, storks, an overhead "motion paints the picture" herd and fences painting over the plain.
-- **Numbers kept cautious:** "1.3 million" is presented as the long-standing aerial estimate, set against the 2025 satellite count (fewer than 600,000), which its authors say may reflect shifted routes rather than a collapse. 6,250 and 8,000 are labelled as estimates.
-- **Map:** schematic, no borders; places are labelled by name only.
-- **Length 89 s,** inside the 60–90 s target.
-- **Voice:** bm_george (British male) at normal pace – a calm documentary read that suits a wildlife story with some tension at the river.
-- **Music:** original, made in code: kalimba, hand drums, low pad and a flute for the calves; a hard silence of about a second before the herd charges the river.
-- **Mastering:** the library's master script needs ffmpeg 7 (6.1 here), so the two-pass −14 LUFS master was run by hand.
+- **Frame:** full bleed. The painting fills the whole 1080×1920 frame with no borders, boxes or panels. Titles, numbers, labels and the main action start inside the focus area, and animals run, leap and march out to the frame edges. Every painted set is larger than the frame at its widest camera position.
+- **Text:** labels and captions are light serif text with a dark halo, with no backing boxes. Captions are one line in the band below the focus area.
+- **Style:** Impasto Oil Painting, as chosen. **Palette** from your two photos: dust gold and ochre, umber banks, slate river, charcoal wildebeest with a gold back-light rim. The one accent is sunset orange, used for the route line. Green only arrives with the rain.
+- **Your photos** set colour and mood only. Every animal, river and map is painted in code.
+- **Picture animation throughout:** 12 painted scenes, each laid in with a knife sweep. They include leaps, splashes, rain, growing grass, a calf standing up, a sunset march, a crocodile lunge, storks, an overhead herd that paints its own trails, and fences spreading over the plain.
+- **Numbers kept cautious:** "1.3 million" is shown as the long-standing aerial estimate, set against the 2025 satellite count of fewer than 600,000. Its authors say that count may reflect shifted routes rather than a collapse. The figures of 6,250 drowned a year and 8,000 calves a day are labelled as estimates.
+- **Map:** schematic with no borders, and places labelled by name only.
+- **Length 89.2 s,** inside the 60–90 s target, with about 2 s of near-silence before the crossing.
+- **Video encode:** two-pass at about 8.3 Mbps (95 MB) to stay under GitHub's 100 MB limit, as you approved. Resolution and frame rate are unchanged.
 
-## Worth a listen (automatic speech check unavailable)
-The speech-check model couldn't be downloaded here, so the narration wasn't checked by machine. Listen especially to:
-- 0:20 "between **Tanzania** and **Kenya**"
-- 0:45 "the **Mara** River"
-- 1:05 "**one point three** million … **twenty twenty-five**, an **A.I.** count"
+## Voice
+Four British voices were generated from the same phoneme script at 0.92× speed. Each was scored by an offline speech recogniser, PocketSphinx with its US-English model; Whisper couldn't be downloaded here. All four mishear British vowels, so the scores compare the voices against each other rather than measure absolute clarity.
+
+| Voice | Word accuracy |
+|---|---|
+| **bm_george** | **0.82** (chosen) |
+| bm_fable | 0.81 |
+| bf_emma | 0.73 |
+| bf_isabella | 0.65 |
+
+bm_george is chosen because it scored clearest and its calm, weighty documentary read suits a wildlife story with tension at the river.
+
+**Phonemes set by hand:** grass /ɡɹˈɑːs/, Tanzania /tˌanzənˈiːə/, AI /ˌeɪˈaɪ/. The rest were reviewed line by line, including wildebeest, Kenya, Mara /mˈɑːɹə/, gazelle, zebra /zˈɛbɹə/ and crocodiles.
+
+## Mix
+- Voice sits 9.3 dB above the music and ambience during speech.
+- Mastered in two passes to −14 LUFS with a −1.6 dBTP target.
+- Measured on the final MP4: −14.0 LUFS integrated, true peak −1.3 dBTP.
+
+## Worth a listen
+The recogniser misheard these. The phonemes look right, but please give them a listen:
+- 0:41 "until they reach the **Mara River**" (heard as "them are reversed")
+- 1:09 "an **A.I.** count" (heard as "a yellow eight")
+- 1:16 "**Fences, farms**" (heard as "ben says phones")
+- 0:50 "Thousands **jump at once**"

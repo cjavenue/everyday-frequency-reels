@@ -1,7 +1,7 @@
 The Great Migration — why wildebeest cross the Mara River (Everyday Frequency)
 
 Picture: every frame painted in code (palette-knife impasto renderer from the Lemo-Opuscar library, impasto style engine). No photos or footage used; the two reference photos set colour and mood only.
-Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice bm_george (British male). Apache-2.0.
+Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice bm_george (British male), 0.92× speed, phoneme input. Apache-2.0. Speech check: PocketSphinx (BSD-2-Clause).
 Music and sound effects: original, synthesised in code (numpy/scipy). No samples.
 Fonts: Cormorant Garamond (Christian Thalmann / Catharsis Fonts), SIL Open Font License 1.1 — fonts/OFL.txt.
 Map: hand-drawn schematic in code (Lake Victoria shore, Mara River, Serengeti and Masai Mara areas, approximate). No border data used.
