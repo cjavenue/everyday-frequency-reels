@@ -1,0 +1,12 @@
+Cats and the spirit world — credits
+
+Picture: drawn entirely in code (HTML canvas). Scratch-film engine adapted from the Lemo-Opuscar library
+  (github.com/lemomo-ai/lemo-opuscar, scratch-film style). No photographs, footage or generated images.
+  Colours taken from the user's own reference photo (Bastet figurine on red velvet), not reproduced in the film.
+Voice: Kokoro TTS v1.0 (kokoro-onnx), voice "bm_fable" (British male), Apache-2.0
+  (github.com/thewh1teagle/kokoro-onnx; model hexgrad/Kokoro-82M). Names set as IPA phonemes.
+Music and sound effects: original, synthesised in code (numpy/scipy) for this film. No samples.
+Fonts: Jost (Indestructible Type, SIL Open Font License 1.1), IBM Plex Mono (IBM, SIL OFL 1.1),
+  via Fontsource (npm @fontsource/jost, @fontsource/ibm-plex-mono).
+Map data: none used.
+Facts: see FACTS.md.
