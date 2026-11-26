@@ -1,0 +1,22 @@
+Ceylon cinnamon: why it has its place in the world — CREDITS
+
+Picture
+- Every image was drawn in code (HTML canvas) in the Colored-Pencil Science Illustration style. No photos, footage or generated images.
+- Map: the Sri Lanka coastline is hand-plotted from approximate coastal coordinates. Coastline only, no borders, no external map data.
+
+Voice
+- Narration: Kokoro TTS v1.0 (kokoro-onnx), voice bm_george (British male). Model under the Apache-2.0 licence.
+- Pronunciation set by IPA phonemes for Sri Lanka, Ceylon, coumarin, cassia and Alba.
+
+Music and sound
+- Original score written for this film in code, played from sampled instruments: nylon guitar, kalimba, double bass (pizzicato), flute, harp, clarinet, marimba, shaker.
+- Samples (CC0): FreePats project (freepats.zenvoid.org), Karoryfer Samples / sfzinstruments, VS Chamber Orchestra: Community Edition (Versilian Studios), Versilian Community Sample Library (Versilian Studios).
+- Pencil, paper, sea and rain sounds synthesised in code.
+
+Fonts
+- Klee One (Fontworks), SIL Open Font License 1.1.
+
+Facts
+- See FACTS.md for every claim, its source and date.
+
+Made with Claude (Anthropic). AI-generated content.
