@@ -19,6 +19,14 @@
     "autoAddMusic": false
   },
   "schedule": {
-    "status": "pending"
+    "status": "scheduled",
+    "dateTime": "2026-12-02T10:00:00",
+    "timezone": "Asia/Colombo",
+    "networks": [
+      "facebook",
+      "tiktok"
+    ],
+    "metricoolPostId": 443396804,
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=1856901560168041356"
   }
 }
