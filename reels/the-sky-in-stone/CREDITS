@@ -1,0 +1,17 @@
+THE SKY IN STONE — credits and licences
+
+Picture: drawn entirely in code (HTML Canvas). Isometric engine adapted from the Lemo-Opuscar
+"Isometric Infographic" style library. No photos, footage or map data are used.
+People are generic code-drawn figures; no real people are depicted.
+
+Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice "bm_fable" — Apache License 2.0.
+Speech check: CMU PocketSphinx (US English model) — BSD-style licence.
+
+Music and sound effects: original, synthesised in code (numpy/scipy) for this film.
+No samples, no third-party music.
+
+Typeface: Jost by indestructible type* — SIL Open Font License 1.1.
+
+Map data: none (no maps shown).
+
+Facts and sources: see FACTS.md.
