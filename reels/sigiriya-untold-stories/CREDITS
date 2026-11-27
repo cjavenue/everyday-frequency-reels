@@ -1,0 +1,17 @@
+Sigiriya: the untold stories — credits and licences
+
+Picture: painted entirely in code (watercolour brush engine adapted from the Lemo-Opuscar "Watercolor Brush" style). No photographs or footage.
+Map: coastlines of Sri Lanka and southern India hand-plotted (approximate), no third-party map data.
+People: simple drawn figures only; no real, identifiable people.
+
+Voice: Kokoro-82M v1.0 (hexgrad), voice bm_george, Apache License 2.0; ONNX export via kokoro-onnx (MIT runtime).
+Pronunciation: espeak-ng phonemiser (GPL-3.0, used as a tool), with custom IPA for Sigiriya, Kashyapa and Raja de Silva.
+
+Music: original score, written in code for this film.
+Samples (CC0): VS Chamber Orchestra: Community Edition (Versilian Studios), Versilian Community Sample Library (Versilian Studios).
+Sound effects: synthesised in code (paper, brush, pencil, rain, water, rumble).
+
+Fonts (SIL Open Font License 1.1): Cormorant Garamond (Christian Thalmann), Caveat (Impallari Type), IBM Plex Mono (IBM).
+
+Facts and sources: see FACTS.md.
+Made with AI assistance (Claude).
