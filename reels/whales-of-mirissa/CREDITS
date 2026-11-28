@@ -1,0 +1,10 @@
+WHALES OF MIRISSA — credits
+
+Picture: made entirely in code (three.js r170, MIT licence) — smooth-shaded 3D models of the whale, dolphins, boat, ship, seabed and chart, graded in a custom WebGL print pass. No photos or footage.
+Voice: Kokoro v1.0 text-to-speech (Apache-2.0), voice bm_george, via kokoro-onnx (MIT). Names set as exact phonemes.
+Music and sound effects: original, synthesised in code for this film (reed organ, piano, glass harmonica, cello, whale-song-like glides, sea and underwater beds, blows, splashes, ship engine). No samples.
+Fonts: Playfair Display (SIL Open Font Licence 1.1, Claus Eggers Sørensen); Old Standard TT (SIL Open Font Licence 1.1, Alexey Kryukov).
+Chart: a schematic coastline drawn in code (not survey data); no borders; shipping lanes shown schematically.
+Film toolkit: Lemo-Opuscar by Lemomo (LemoLab), library used for rendering tools.
+Facts and sources: see FACTS.md.
+AI content: narration voice and visuals are machine-made; declared as AI-generated content on posting.
