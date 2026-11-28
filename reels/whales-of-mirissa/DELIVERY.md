@@ -1,7 +1,7 @@
 # Whales of Mirissa · delivery pack
 
-**Film:** whales-of-mirissa.mp4 · smooth-shaded 3D graded as a silent-era orthochromatic print, in the sea palette · 1080×1920 · 30 fps · H.264 two-pass 7.3 Mb/s / AAC 192k · 98.9 s · 92.6 MB · −14.0 LUFS (true peak −1.6 dBFS)
-**Captions:** burned in (one line, y≈1600, light text with a navy halo) and in whales-of-mirissa.en-GB.srt · **Cover:** whales-of-mirissa-cover.jpg (end card with the diving fluke, 1:34.5)
+**Film:** whales-of-mirissa.mp4 · 1959 65mm widescreen epic built in 3D, golden-hour Eastmancolor · 1080×1920 · 30 fps · H.264 two-pass 7.3 Mb/s / AAC 192k · 98.9 s · 92.6 MB · −14.0 LUFS (true peak −1.6 dBFS)
+**Captions:** burned in (one line, y≈1600, light text with a dark halo) and in whales-of-mirissa.en-GB.srt · **Cover:** whales-of-mirissa-cover.jpg (end card with the diving fluke, 1:34.5)
 
 ## Title (43 characters)
 Why the world's biggest animal swims here
@@ -26,14 +26,16 @@ Mirissa whale watching · blue whales Sri Lanka · Mirissa blue whale · norther
 Sources 🐋 Shelf edge ~7–8 km south of Mirissa (de Vos et al., IWC J. Cetacean Res. Manage.) · Non-migratory, some resident all year; ship strike the top threat (de Vos et al., J. Marine Biology 2016) · 15 nmi lane shift ≈95% lower risk (IFAW surveys 2014–15) · MSC rerouted 2022 (IFAW, 8 Sep 2022) · 100 m distance, no swimming without permit (Sea Mammals Regulations No. 1 of 2012, amended 2019).
 
 ## Assumptions made
-- **Style:** "Smooth-shaded 3D graded as a silent-era orthochromatic print" isn't a library style, so it was built for this film: smooth-shaded three.js models (whale, dolphins, boat, ship, seabed cutaway, chart) through a print pass with orthochromatic response (blue water prints pale, dark backs print dark), flicker, gate weave, halation, grain, dust and soft vignette. No 4:3 gate or curtains: the frame is full-bleed as the project requires.
-- **Palette (changed mid-production at your request):** first graded in the Bastet photo's crimson, black and gold; regraded in your sea palette — #00669A, #0799BE, #21A6B1, #8EC2B9, sand #DFDDD7 — with a deep navy ink for the darkest tones. Titles and labels are sand-white with a navy shadow; captions light with a navy halo.
-- **Whale colour (your note):** lightened to a mottled blue-grey with a pale belly, so it reads against the dark ship hull and the deep water.
-- **Transitions:** every scene change is a 0.8 s eased cross-dissolve; both scenes are rendered under it, so no blank frames (blackdetect: 0). Dissolves get a soft swell, never a whoosh.
+- **Style (changed after the first delivery):** first made as "smooth-shaded 3D graded as a silent-era orthochromatic print"; at your request, converted to **"1959 65mm widescreen epic built in 3D"**. Neither is a library style, so both were built for this film. The epic version is a steady, full-colour roadshow print: rich Eastmancolor, very fine grain, warm halation, soft horizontal anamorphic flares on bright light, a big soft vignette, no flicker or weave. Skies with cumulus and a different light for each surface scene (sunrise, afternoon, sunset). The frame stays full-bleed 9:16 (no letterbox) as the project requires; the "widescreen" lives in the lenses, light and scale.
+- **Colour (your call, my choice):** the sea palette made everything blue, so the film is graded in a golden-hour teal-and-amber scheme: deep teal sea and shadows, amber and rose sunrise and sunset skies, gold light shafts and sunlit surface, ochre and umber rock strata, jungle greens and sand on the shore, a parchment-style chart, ivory-gold titles. The ship scene stays cooler and greyer on purpose.
+- **Whale:** a mottled slate blue-grey with a pale belly, so it reads against the warm light and the dark ship hull.
+- **Titles:** carved Roman capitals (Cinzel) in ivory-gold with a dark shadow; labels in Playfair Display.
+- **Music:** a new original roadshow score made in code — string section, harp, French horns, timpani rolls at the opening, the turn, the fix and the finale — plus whale-song glides. No projector sounds.
+- **Transitions:** every scene change is a 0.8 s eased cross-dissolve; both scenes are rendered under it, so no blank frames.
 - **Length: 98.9 s**, over the 60–90 s target but under the 100 s maximum: the Why (shelf, upwelling), What (who, when) and How (the shipping-lane fix, the 100 m rule) needed it at a calm pace.
 - **Chart:** the coastline and lanes are schematic, drawn in code (not survey data); no borders. The shelf cutaway is marked "not to scale".
 - **Cautious wording:** "some stay all year" (not all); "about 95%" labelled a scientists' estimate; the reported decline in sightings left out as contested (see FACTS.md).
-- **File size:** the master render was 823 MB (CRF 14, picture only), so the picture was re-encoded two-pass to 92.6 MB at 1080×1920, 30 fps; loudness and peak measured on that final file.
+- **Script, voice and facts:** unchanged from the approved version.
 - **Mastering:** two-pass −14 LUFS master run by hand (ffmpeg 6.1 here).
 
 ## Voice
