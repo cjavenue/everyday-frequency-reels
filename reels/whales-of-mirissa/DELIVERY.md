@@ -1,7 +1,7 @@
 # Whales of Mirissa · delivery pack
 
-**Film:** whales-of-mirissa.mp4 · 1959 65mm widescreen epic built in 3D, golden-hour Eastmancolor · 1080×1920 · 30 fps · H.264 two-pass 7.3 Mb/s / AAC 192k · 98.9 s · 92.6 MB · −14.0 LUFS (true peak −1.6 dBFS)
-**Captions:** burned in (one line, y≈1600, light text with a dark halo) and in whales-of-mirissa.en-GB.srt · **Cover:** whales-of-mirissa-cover.jpg (end card with the diving fluke, 1:34.5)
+**Film:** whales-of-mirissa.mp4 · Real-time 3D, bleached desert daylight · 1080×1920 · 30 fps · H.264 two-pass 7.3 Mb/s / AAC 192k · 98.9 s · 92.6 MB · −14.0 LUFS (true peak −1.6 dBFS)
+**Captions:** burned in (one line, y≈1600, light text with a dark halo) and in whales-of-mirissa.en-GB.srt · **Cover:** whales-of-mirissa-cover.jpg (end card with the diving tail, 1:34.5)
 
 ## Title (43 characters)
 Why the world's biggest animal swims here
@@ -26,11 +26,11 @@ Mirissa whale watching · blue whales Sri Lanka · Mirissa blue whale · norther
 Sources 🐋 Shelf edge ~7–8 km south of Mirissa (de Vos et al., IWC J. Cetacean Res. Manage.) · Non-migratory, some resident all year; ship strike the top threat (de Vos et al., J. Marine Biology 2016) · 15 nmi lane shift ≈95% lower risk (IFAW surveys 2014–15) · MSC rerouted 2022 (IFAW, 8 Sep 2022) · 100 m distance, no swimming without permit (Sea Mammals Regulations No. 1 of 2012, amended 2019).
 
 ## Assumptions made
-- **Style (changed after the first delivery):** first made as "smooth-shaded 3D graded as a silent-era orthochromatic print"; at your request, converted to **"1959 65mm widescreen epic built in 3D"**. Neither is a library style, so both were built for this film. The epic version is a steady, full-colour roadshow print: rich Eastmancolor, very fine grain, warm halation, soft horizontal anamorphic flares on bright light, a big soft vignette, no flicker or weave. Skies with cumulus and a different light for each surface scene (sunrise, afternoon, sunset). The frame stays full-bleed 9:16 (no letterbox) as the project requires; the "widescreen" lives in the lenses, light and scale.
-- **Colour (your call, my choice):** the sea palette made everything blue, so the film is graded in a golden-hour teal-and-amber scheme: deep teal sea and shadows, amber and rose sunrise and sunset skies, gold light shafts and sunlit surface, ochre and umber rock strata, jungle greens and sand on the shore, a parchment-style chart, ivory-gold titles. The ship scene stays cooler and greyer on purpose.
-- **Whale:** a mottled slate blue-grey with a pale belly, so it reads against the warm light and the dark ship hull.
-- **Titles:** carved Roman capitals (Cinzel) in ivory-gold with a dark shadow; labels in Playfair Display.
-- **Music:** a new original roadshow score made in code — string section, harp, French horns, timpani rolls at the opening, the turn, the fix and the finale — plus whale-song glides. No projector sounds.
+- **Style (third version, rebuilt from scratch):** "Real-time 3D, bleached desert daylight" — not a library style, so it was built for this film. A game-engine frame under one white-hot noon sun: hard real-time shadow maps, bloom and glare off bright water and sand, a faint heat shimmer low in the frame, warm haze, dusty desaturated colour with highlights pushed to bone, crisp digital image (no film grain or flicker). Replaces the 1959 65mm epic version.
+- **Palette (from the style):** bone `#F2EDE3`, sand and limestone strata, pale aqua sea, deep teal shadow water, ink `#1D1A16`, and one accent — rust `#C2562B` — for every line, arrow, marker and the month ring.
+- **Text (new for this style):** clean UI-style label plates (bone card, ink text, a rust tab) in Space Grotesk, and expanded grotesque titles in Archivo (ink with a bone halo on bright scenes, bone with a dark halo on dark ones). Captions in Space Grotesk, light with a dark halo, y≈1600.
+- **Shots redrawn for the style:** the hook is now a noon surface shot — the whale's back breaking the water and blowing; the whale's close-up is in bright shallow water over a sunlit sand floor with caustics and its hard shadow; the seabed cutaway is pale limestone strata; the chart is a 3D terrain table under the noon sun with ships casting shadows; the ending is a hazy white afternoon. Story, shot order and timings are the approved ones.
+- **Music (new):** an ambient real-time-game score made in code — warm analogue pad, hang-drum-like mallets, an airy lead, low drone and soft deep pulses at the opening, the turn, the fix and the ending; lighter for the setup, a drone for the ship, the theme back for the ending. Sea, surf, blows, splashes and ship engine as before; no film sounds.
 - **Transitions:** every scene change is a 0.8 s eased cross-dissolve; both scenes are rendered under it, so no blank frames.
 - **Length: 98.9 s**, over the 60–90 s target but under the 100 s maximum: the Why (shelf, upwelling), What (who, when) and How (the shipping-lane fix, the 100 m rule) needed it at a calm pace.
 - **Chart:** the coastline and lanes are schematic, drawn in code (not survey data); no borders. The shelf cutaway is marked "not to scale".
