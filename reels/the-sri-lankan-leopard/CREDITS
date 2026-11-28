@@ -1,0 +1,11 @@
+The Sri Lankan leopard — credits
+
+Picture: every frame drawn in code (three.js r170, MIT licence), rendered headless. No photos, footage or AI images.
+Map: Sri Lanka coastline from Natural Earth 1:10m via world-atlas v2 (public domain / ISC). Coastline only, no borders.
+  Protected areas and death markers are schematic illustrations of the cited statistics, not survey locations.
+Fonts: Barlow and Barlow Condensed by Jeremy Tribby — SIL Open Font License 1.1 (via @fontsource).
+Voice: Kokoro v1.0 (Apache 2.0), voice bm_george, generated offline with kokoro-onnx (MIT). Pronunciations set in IPA.
+Speech check: CMU PocketSphinx (BSD) with its US-English model.
+Music and sound effects: original, synthesised in code for this film (physical-model plucked strings, modal kalimba, synth pad, drone, frame drum, procedural wind, cicadas, birds, foley). No samples.
+Tools: Lemo-Opuscar production library (core render, srt and pluck/sfx helpers), ffmpeg.
+Facts: see FACTS.md.
