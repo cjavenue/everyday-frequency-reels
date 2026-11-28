@@ -21,11 +21,12 @@
     "status": "scheduled",
     "dateTime": "2026-12-10T10:00:00",
     "timezone": "Asia/Colombo",
-    "metricoolPostId": 445219693,
+    "metricoolPostId": 445297685,
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=-2883120005282837405",
     "networks": [
       "facebook",
       "tiktok"
-    ]
+    ],
+    "updated": "2026-11-28 (65mm epic version swapped in)"
   }
 }
