@@ -7,7 +7,25 @@
   "srt_url": "https://raw.githubusercontent.com/cjavenue/everyday-frequency-reels/main/reels/whales-of-mirissa/whales-of-mirissa.en-GB.srt",
   "cover_ms": 94500,
   "post_text": "Blue whales feed a short boat ride off Mirissa 🐋 Why they're here, why some stay all year, and how moving one shipping lane could save them.\n#bluewhale #mirissa #srilanka #whalewatching #learnontiktok #explained",
-  "facebook": {"type": "REEL", "title": "Why the world's biggest animal swims here"},
-  "tiktok": {"title": "Why the world's biggest animal swims here", "privacyOption": "PUBLIC_TO_EVERYONE", "isAigc": true, "autoAddMusic": false},
-  "schedule": "pending"
+  "facebook": {
+    "type": "REEL",
+    "title": "Why the world's biggest animal swims here"
+  },
+  "tiktok": {
+    "title": "Why the world's biggest animal swims here",
+    "privacyOption": "PUBLIC_TO_EVERYONE",
+    "isAigc": true,
+    "autoAddMusic": false
+  },
+  "schedule": {
+    "status": "scheduled",
+    "dateTime": "2026-12-10T10:00:00",
+    "timezone": "Asia/Colombo",
+    "metricoolPostId": 445219693,
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8314858&openWithPostUuid=-2883120005282837405",
+    "networks": [
+      "facebook",
+      "tiktok"
+    ]
+  }
 }
