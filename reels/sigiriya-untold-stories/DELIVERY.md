@@ -1,6 +1,6 @@
 # Sigiriya: the untold stories — delivery pack
 
-**Film:** sigiriya-untold-stories.mp4 · 1080×1920 · 30 fps · H.264/AAC · 93.7 s · −13.9 LUFS (true peak −3.2 dBFS) · 93.0 MB (117.3 MB before the two-pass re-encode)
+**Film:** sigiriya-untold-stories.mp4 · 1080×1920 · 30 fps · H.264/AAC · 93.7 s · −13.9 LUFS (true peak −3.2 dBFS) · 93.0 MB (116.6 MB before the two-pass re-encode)
 **Captions:** burned in, and in sigiriya-untold-stories.en-GB.srt · **Cover:** sigiriya-untold-stories-cover.jpg (the end card at 1:33.3, no caption)
 
 ## Title (45 characters)
@@ -26,6 +26,7 @@ Sigiriya history · Sigiriya untold stories · Lion Rock Sri Lanka · King Kashy
 Sources 🦁 180 m rock, Kassapa I 477–495 CE (UNESCO) · father walled up, brother fled, elephant at the swamp (Cūḷavaṃsa) · lion paws found 1898 by H.C.P. Bell (Lonely Planet) · ~500 painted women in the graffiti, ~20 survive (Wikipedia; Rough Guides) · 685 verses read 1956 (Paranavitana) + ~800 by B. Priyanka (Sunday Times 2010) · fountains fed by the moat (CCF via The Morning, Oct 2025) · monastery theory (Raja de Silva, 2002).
 
 ## Assumptions made
+- **Revision (28 Nov):** at CJ's request every wide view of the rock now follows the classic aerial view: a broad, rounded cliff seen from above, the terraced summit and trees on top, dark stains down a sunlit face, forest all round and the water gardens leading to it. It appears in the opening (golden light), the climb with the 180 m ruler, behind the fountains, in the distance at the battle, and at dusk for the twist and end card. Narration, timing and sound are unchanged.
 - **Style:** Watercolor Brush, as chosen. No palette was supplied, so the colours come from the style and the subject: warm paper, rock ochre and burnt sienna, jungle greens, water blue, dusk violet for the ending, and **vermilion kept only for the four numbered "secret" seals** (and the king's parasol, the brother's route and the 800 figure).
 - **Angle:** Why (a usurper's fear: the crime and the brother's army) → What (four secrets: the lion gate, the painted gallery, the Mirror Wall verses, the fountains, with the fountains as the How) → the king's end → a twist (palace or monastery?).
 - **Length: 93.7 s**, so the 100 s exception applies. Five "secrets" plus the backstory didn't fit in 90 s without dropping one. I cut the script twice (the 1898 date moved to a screen note, and the "rain" line was merged into one sentence).
@@ -55,7 +56,7 @@ Whisper's model host is blocked from this workspace, so the check used **PocketS
 ## Loudness and file
 - Integrated −13.9 LUFS, true peak −3.2 dBFS, measured on the final MP4 after AAC encoding.
 - No black or blank frames (blackdetect: 0). I checked the contact sheet of the final file by eye, including frames in the middle of dissolves.
-- 117.3 MB → 93.0 MB by two-pass H.264 (7.7 Mb/s), 1080×1920, 30 fps, audio stream copied unchanged.
+- 116.6 MB → 93.0 MB by two-pass H.264 (7.7 Mb/s), 1080×1920, 30 fps, audio stream copied unchanged.
 
 ## Worth a listen
 PocketSphinx couldn't confirm these words, which is common for its US model on British voices:
